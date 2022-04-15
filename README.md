@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Gabi
 
 
-- 🔭 Hoje eu trabalho com Dados e Automação
-- 🌱 Estudando Javascript
+- 🔭 Hoje eu trabalho com Metodologia Agil | Dados | Automação Sustentavel 
+- 🌱 Estudando : Java
 - 😄 Pronouns:Ela/Dela
 
 <div>
