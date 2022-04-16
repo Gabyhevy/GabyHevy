@@ -12,8 +12,9 @@ Quero me tornar Desenvolvedor  e  trabalhar com progração!
 
 Tecnologias 
 
--Automação Sustentavel 
--  PMO (Project Management Office) no acompanhamento de resultados de projetos Kaizen e Lean , fazendo controle de indicadores e Valoração do projeto, também identificando e dando suporte ao andamento de projetos com problemas.
+Automatizando processos operacionais usando como ferramenta, Power automate, Acces, SharePoint, Power apps, Power bi, Excel.
+PMO (Project Management Office) no acompanhamento de resultados de projetos Kaizen e Lean , fazendo controle de indicadores e Valoração do projeto, também identificando e dando suporte ao andamento de projetos com problemas.
+
 
 Entre em contato comigo :
 https://www.linkedin.com/in/gabrielle-oliveira-lima/
