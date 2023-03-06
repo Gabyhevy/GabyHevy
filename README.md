@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Olá, sou a Gabrielle Lima , 21, atualmente morando no Brasil.
+Olá, sou a Gabrielle Lima , tenho 21 anos e atualmente moro no Brazil.
 
 Estudando Java + API
 
