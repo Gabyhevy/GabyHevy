@@ -1,14 +1,12 @@
 ## Sobre Mim
 
-Olá, sou a Gabrielle Lima , 20 anos, atualmente  morando no Brasil.
+Olá, sou a Gabrielle Lima , 21, atualmente morando no Brasil.
 
-Estudando Java,  HTML, CSS
+Estudando Java + API
 
 Sou técnico de informática formado pelo "ITB- Instituto Tecnico de Barueri" em 2020 , atualmente sou graduando  em Sistemas de Informação  na Universidade Cruzeiro do Sul  em  São Paulo .
 
-Trabalho hoje com Metodologia Ágil  Lean e Kaizen
-
-Quero me tornar Desenvolvedor  e  trabalhar com progração! 
+Trabalho hoje como Engenheira de Software
 
 Tecnologias 
 
