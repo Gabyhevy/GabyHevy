@@ -10,9 +10,18 @@ Trabalho hoje como Engenheira de Software
 
 Tecnologias 
 
-Automatizando processos operacionais usando como ferramenta, Power automate, Acces, SharePoint, Power apps, Power bi, Excel.
-PMO (Project Management Office) no acompanhamento de resultados de projetos Kaizen e Lean , fazendo controle de indicadores e Valoração do projeto, também identificando e dando suporte ao andamento de projetos com problemas.
+Desenvolvimento em Java 
+Desenvolvimento em Api 
+Desenvolvimento Mainframe
 
+Experiencia 
+
+-Atuação nos testes unitários, visando a completude de código
+-Atuação em Testes unitários retorno do Mainframe
+-Preenchimento de campos da classe Java de entrada e saída do Mainframe
+-Atuação na migração do MySQL fazendo teste unitário
+-Verificação e validação de relacionamentos de Siglas
+-Participação do Bootcamp Impulsiona Tech Foundation
 
 Entre em contato comigo :
 https://www.linkedin.com/in/gabrielle-oliveira-lima/
